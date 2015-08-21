@@ -9,7 +9,7 @@ Edit vimrc
 Plugin 'chunpu/vim-monokai'
 
 set t_Co=256
-colorscheme monokai
+colorscheme Monokai
 ```
 
 Remember to run `vim +PluginInstall +qall` in shell after add Plugin to vimrc
